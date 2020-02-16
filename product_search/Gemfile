@@ -54,7 +54,7 @@ gem 'will_paginate', '~> 3.1.1'
 gem 'will_paginate-bootstrap'
 #search and filter
 gem 'simple_form'
-gem 'bootstrap', '~> 4.2.1'
+gem 'bootstrap', '~> 4.3.1'
 gem 'country_select'
 gem 'sunspot_rails'
 gem 'sunspot_solr'
